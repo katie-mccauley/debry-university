@@ -25,3 +25,39 @@
 [03-May-2022 19:44:28 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\kmcca\Local Sites\debry-university\app\public\wp-content\themes\university-theme\functions.php on line 7
 [03-May-2022 20:23:59 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\kmcca\Local Sites\debry-university\app\public\wp-content\themes\university-theme\functions.php on line 7
 [03-May-2022 20:23:59 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\kmcca\Local Sites\debry-university\app\public\wp-content\themes\university-theme\functions.php on line 7
+[03-May-2022 20:54:12 UTC] PHP Warning:  A non-numeric value encountered in C:\Users\kmcca\Local Sites\debry-university\app\public\wp-content\themes\university-theme\index.php on line 75
+[03-May-2022 20:54:12 UTC] PHP Stack trace:
+[03-May-2022 20:54:12 UTC] PHP   1. {main}() C:\Users\kmcca\Local Sites\debry-university\app\public\index.php:0
+[03-May-2022 20:54:12 UTC] PHP   2. require() C:\Users\kmcca\Local Sites\debry-university\app\public\index.php:17
+[03-May-2022 20:54:12 UTC] PHP   3. require_once() C:\Users\kmcca\Local Sites\debry-university\app\public\wp-blog-header.php:19
+[03-May-2022 20:54:12 UTC] PHP   4. include() C:\Users\kmcca\Local Sites\debry-university\app\public\wp-includes\template-loader.php:106
+[03-May-2022 20:54:12 UTC] PHP Warning:  A non-numeric value encountered in C:\Users\kmcca\Local Sites\debry-university\app\public\wp-content\themes\university-theme\index.php on line 84
+[03-May-2022 20:54:12 UTC] PHP Stack trace:
+[03-May-2022 20:54:12 UTC] PHP   1. {main}() C:\Users\kmcca\Local Sites\debry-university\app\public\index.php:0
+[03-May-2022 20:54:12 UTC] PHP   2. require() C:\Users\kmcca\Local Sites\debry-university\app\public\index.php:17
+[03-May-2022 20:54:12 UTC] PHP   3. require_once() C:\Users\kmcca\Local Sites\debry-university\app\public\wp-blog-header.php:19
+[03-May-2022 20:54:12 UTC] PHP   4. include() C:\Users\kmcca\Local Sites\debry-university\app\public\wp-includes\template-loader.php:106
+[03-May-2022 20:54:12 UTC] PHP Warning:  A non-numeric value encountered in C:\Users\kmcca\Local Sites\debry-university\app\public\wp-content\themes\university-theme\index.php on line 75
+[03-May-2022 20:54:12 UTC] PHP Stack trace:
+[03-May-2022 20:54:12 UTC] PHP   1. {main}() C:\Users\kmcca\Local Sites\debry-university\app\public\index.php:0
+[03-May-2022 20:54:12 UTC] PHP   2. require() C:\Users\kmcca\Local Sites\debry-university\app\public\index.php:17
+[03-May-2022 20:54:12 UTC] PHP   3. require_once() C:\Users\kmcca\Local Sites\debry-university\app\public\wp-blog-header.php:19
+[03-May-2022 20:54:12 UTC] PHP   4. include() C:\Users\kmcca\Local Sites\debry-university\app\public\wp-includes\template-loader.php:106
+[03-May-2022 20:54:12 UTC] PHP Warning:  A non-numeric value encountered in C:\Users\kmcca\Local Sites\debry-university\app\public\wp-content\themes\university-theme\index.php on line 84
+[03-May-2022 20:54:12 UTC] PHP Stack trace:
+[03-May-2022 20:54:12 UTC] PHP   1. {main}() C:\Users\kmcca\Local Sites\debry-university\app\public\index.php:0
+[03-May-2022 20:54:12 UTC] PHP   2. require() C:\Users\kmcca\Local Sites\debry-university\app\public\index.php:17
+[03-May-2022 20:54:12 UTC] PHP   3. require_once() C:\Users\kmcca\Local Sites\debry-university\app\public\wp-blog-header.php:19
+[03-May-2022 20:54:12 UTC] PHP   4. include() C:\Users\kmcca\Local Sites\debry-university\app\public\wp-includes\template-loader.php:106
+[03-May-2022 20:54:53 UTC] PHP Warning:  A non-numeric value encountered in C:\Users\kmcca\Local Sites\debry-university\app\public\wp-content\themes\university-theme\index.php on line 84
+[03-May-2022 20:54:53 UTC] PHP Stack trace:
+[03-May-2022 20:54:53 UTC] PHP   1. {main}() C:\Users\kmcca\Local Sites\debry-university\app\public\index.php:0
+[03-May-2022 20:54:53 UTC] PHP   2. require() C:\Users\kmcca\Local Sites\debry-university\app\public\index.php:17
+[03-May-2022 20:54:53 UTC] PHP   3. require_once() C:\Users\kmcca\Local Sites\debry-university\app\public\wp-blog-header.php:19
+[03-May-2022 20:54:53 UTC] PHP   4. include() C:\Users\kmcca\Local Sites\debry-university\app\public\wp-includes\template-loader.php:106
+[03-May-2022 20:54:53 UTC] PHP Warning:  A non-numeric value encountered in C:\Users\kmcca\Local Sites\debry-university\app\public\wp-content\themes\university-theme\index.php on line 84
+[03-May-2022 20:54:53 UTC] PHP Stack trace:
+[03-May-2022 20:54:53 UTC] PHP   1. {main}() C:\Users\kmcca\Local Sites\debry-university\app\public\index.php:0
+[03-May-2022 20:54:53 UTC] PHP   2. require() C:\Users\kmcca\Local Sites\debry-university\app\public\index.php:17
+[03-May-2022 20:54:53 UTC] PHP   3. require_once() C:\Users\kmcca\Local Sites\debry-university\app\public\wp-blog-header.php:19
+[03-May-2022 20:54:53 UTC] PHP   4. include() C:\Users\kmcca\Local Sites\debry-university\app\public\wp-includes\template-loader.php:106
